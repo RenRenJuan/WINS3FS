@@ -1,2 +1,4 @@
 # YAS3
-Stub of Simple Storage Domain, to be developed later.
+
+
+  Fork of S3FS for purpose of creation of a MCP external mass storage FS.
